@@ -10,7 +10,7 @@ coverage==7.2.2
     # via pytest-cov
 cython==0.29.33
     # via -r build_tools/azure/debian_atlas_32bit_requirements.txt
-joblib==1.1.1
+joblib==1.2.0
     # via -r build_tools/azure/debian_atlas_32bit_requirements.txt
 more-itertools==9.1.0
     # via pytest
